@@ -1,0 +1,10 @@
+F:\ProgrammingAdvices\Course 14 - C# lvl1\OrderPizzaProject\bin\Debug\OrderPizzaProject.exe.config
+F:\ProgrammingAdvices\Course 14 - C# lvl1\OrderPizzaProject\bin\Debug\OrderPizzaProject.exe
+F:\ProgrammingAdvices\Course 14 - C# lvl1\OrderPizzaProject\bin\Debug\OrderPizzaProject.pdb
+F:\ProgrammingAdvices\Course 14 - C# lvl1\OrderPizzaProject\obj\Debug\OrderPizzaProject.csproj.AssemblyReference.cache
+F:\ProgrammingAdvices\Course 14 - C# lvl1\OrderPizzaProject\obj\Debug\OrderPizzaProject.Form1.resources
+F:\ProgrammingAdvices\Course 14 - C# lvl1\OrderPizzaProject\obj\Debug\OrderPizzaProject.Properties.Resources.resources
+F:\ProgrammingAdvices\Course 14 - C# lvl1\OrderPizzaProject\obj\Debug\OrderPizzaProject.csproj.GenerateResource.cache
+F:\ProgrammingAdvices\Course 14 - C# lvl1\OrderPizzaProject\obj\Debug\OrderPizzaProject.csproj.CoreCompileInputs.cache
+F:\ProgrammingAdvices\Course 14 - C# lvl1\OrderPizzaProject\obj\Debug\OrderPizzaProject.exe
+F:\ProgrammingAdvices\Course 14 - C# lvl1\OrderPizzaProject\obj\Debug\OrderPizzaProject.pdb
